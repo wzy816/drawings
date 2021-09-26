@@ -9,4 +9,6 @@ for file in os.listdir("./"):
         with open("./"+file+"/README.md", "w+") as f:
             f.write("# "+folder_name + "\n\n")
             for img in glob.glob("./"+file+"/*"):
-                f.write("![](./"+os.path.basename(img)+")"+"\n")
+                bn = os.path.basename(img)
+                f.write("!["+os.path.splitext(bn)[0]+"](<"
+                        + bn+">)"+"\n")
