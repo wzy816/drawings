@@ -2,7 +2,7 @@
 
 architecture image collection
 
-![icok_icok05_ma_li_3d_640](<./industrial_design/icok_icok05_ma_li_3d_640.jpg>)
-![Circle-Collect_p1241844918](<./illustration/Circle-Collect_p1241844918.jpg>)
-![Sin_Centre_-_Michel_Webb_(Archigram)._1962_(1)](<./project_multiple/Sin_Centre_-_Michel_Webb_(Archigram)._1962_(1).jpg>)
-![icok_icok03_playstation-best-controversial-ads-35-560x1-thumb](<./industrial_design/icok_icok03_playstation-best-controversial-ads-35-560x1-thumb.jpg>)
+![Scanned_from_a_Xerox_Multifunction_Device_(11)](<./model/Scanned_from_a_Xerox_Multifunction_Device_(11).jpg>)
+![yaohua_wang_Subway_Terminal_Building_New_Sci-arc_F616866651662DAC36C798CF6086765C_500[1]](<./project_multiple/yaohua_wang_Subway_Terminal_Building_New_Sci-arc_F616866651662DAC36C798CF6086765C_500[1].jpg>)
+![2018.The.Leaf.Make.2.Digital.a9450567604359.5b3f511eb7acc](<./vfx/2018.The.Leaf.Make.2.Digital.a9450567604359.5b3f511eb7acc.jpg>)
+![hill-at-all_(5)](<./issue_idea/hill-at-all_(5).png>)

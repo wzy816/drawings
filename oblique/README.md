@@ -311,6 +311,7 @@
 ![(via_UENO_PLANET_for_Exhibition_-_MISAWA_DESIGN_INSTITUTE__三澤デザイン研究室__三澤_遥)_(1)](<(via_UENO_PLANET_for_Exhibition_-_MISAWA_DESIGN_INSTITUTE__三澤デザイン研究室__三澤_遥)_(1).jpg>)
 ![How_To_Make_Strange_Objects”](<How_To_Make_Strange_Objects”.jpg>)
 ![Amazing_urbanism_by_my_student_Mintra_Maneepairoj,_on_storage_as_an_engine_for_the_urban!!!](<Amazing_urbanism_by_my_student_Mintra_Maneepairoj,_on_storage_as_an_engine_for_the_urban!!!.jpg>)
+![Detective_Office_Noir-Low_Poly_Diorama](<Detective_Office_Noir-Low_Poly_Diorama.jpg>)
 ![All.Angles.MUTI.d4ff5a80304779.5cdd332fb6c0f](<All.Angles.MUTI.d4ff5a80304779.5cdd332fb6c0f.jpg>)
 ![lihan-14](<lihan-14.jpg>)
 ![Andrew_DeGraff’s_Unfinished_Construction_Sites](<Andrew_DeGraff’s_Unfinished_Construction_Sites.jpg>)
